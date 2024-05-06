@@ -13,31 +13,7 @@
   </div>
   </nav>
   </body>
-  <h1>BANANAS</h1>
-</header>
-<form id="form" action="https://www.freecodecamp.com/email-submit">
-  <p>Enter to Win Bananas for Life! </p>
-  <input id="email" type="email" placeholder="EMAIL" name="email" />
-  <br>
-    <br>
-  <input id="submit" type="submit" />
-</form>
-<br>
-
-<section id="cavendish">
-  <iframe id="video" src="https://www.youtube.com/embed/6mifSDUJe2g" title="Dwarf Cavendish Banana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</section>
-<section id="plantain">
-  <iframe src="https://www.youtube.com/embed/5Y0fUiMtt1s" title="How to Fry Sweet Plantain! | Deddy's Kitchen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</section>
-<section id="red">
-  <iframe src="https://www.youtube.com/embed/XNMD_Fu0z78" title="The Real Difference Between Red And Yellow Bananas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</section>
-<section id="baby">
-  <iframe src="https://www.youtube.com/embed/-eya06a97ZI" title="Seven Different Types of Bananas - Baby Manzano Thai Red Burro Plantain Cavendish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</section>
-<link rel="stylesheet" href="styles.css">
-CSS
+<style>
 header {
   position: sticky;
   top: 0;
@@ -84,3 +60,29 @@ iframe{
   width: 55%;
   height: 100%;
   padding: 10px;
+</style>
+  <h1>BANANAS</h1>
+</header>
+<form id="form" action="https://www.freecodecamp.com/email-submit">
+  <p>Enter to Win Bananas for Life! </p>
+  <input id="email" type="email" placeholder="EMAIL" name="email" />
+  <br>
+    <br>
+  <input id="submit" type="submit" />
+</form>
+<br>
+
+<section id="cavendish">
+  <iframe id="video" src="https://www.youtube.com/embed/6mifSDUJe2g" title="Dwarf Cavendish Banana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+<section id="plantain">
+  <iframe src="https://www.youtube.com/embed/5Y0fUiMtt1s" title="How to Fry Sweet Plantain! | Deddy's Kitchen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+<section id="red">
+  <iframe src="https://www.youtube.com/embed/XNMD_Fu0z78" title="The Real Difference Between Red And Yellow Bananas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+<section id="baby">
+  <iframe src="https://www.youtube.com/embed/-eya06a97ZI" title="Seven Different Types of Bananas - Baby Manzano Thai Red Burro Plantain Cavendish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+<link rel="stylesheet" href="styles.css">
+CSS
