@@ -28,7 +28,7 @@
   </div>
 </section>
 <link rel="stylesheet" href="styles.css">
-CSS
+<style>
 @media only screen and (max-width: 800px) header {
   position: sticky;
   width: 100%;
@@ -63,3 +63,5 @@ header a {
 nav{
   position: fixed;
 }
+</style>
+
